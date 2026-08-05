@@ -29,7 +29,7 @@ This guide demonstrates how to migrate an OCI Compute Instance by restoring a Bo
 
 ## Architecture
 
-<img width="2400" height="1260" alt="Screenshot 2026-08-05 133501" src="https://github.com/user-attachments/assets/b30847d9-86ad-477f-9b8b-1134d3812ee9" />
+<img width="2400" height="700" alt="Screenshot 2026-08-05 133501" src="https://github.com/user-attachments/assets/b30847d9-86ad-477f-9b8b-1134d3812ee9" />
 
 
 ---
